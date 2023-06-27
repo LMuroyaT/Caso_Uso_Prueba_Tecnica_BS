@@ -1,0 +1,20 @@
+customerID;gender;SeniorCitizen;Partner;Dependents;tenure;PhoneService;MultipleLines;InternetService;OnlineSecurity;OnlineBackup;DeviceProtection;TechSupport;StreamingTV;StreamingMovies;Contract;PaperlessBilling;PaymentMethod;MonthlyCharges;TotalCharges
+CC001_New;Male;0;Yes;Yes;53;Yes;No;No;No internet service;No internet service;No internet service;No internet service;No internet service;No internet service;Two year;Yes;Mailed check;19.4;1110.35
+CC002_New;Male;0;No;No;27;Yes;Yes;DSL;No;No;Yes;Yes;No;No;Month-to-month;No;Electronic check;59.45;1611.65
+CC003_New;Female;1;No;No;23;Yes;No;Fiber optic;No;Yes;No;No;Yes;Yes;Month-to-month;Yes;Electronic check;94.75;2293.6
+CC004_New;Male;0;No;No;69;Yes;Yes;DSL;Yes;Yes;Yes;Yes;No;Yes;Two year;Yes;Credit card (automatic);81.5;5553.25
+CC005_New;Female;0;Yes;Yes;2;No;No phone service;DSL;No;No;No;Yes;No;No;Month-to-month;No;Bank transfer (automatic);29.05;44.75
+CC006_New;Female;0;No;No;35;Yes;Yes;Fiber optic;No;No;No;No;Yes;No;Month-to-month;Yes;Electronic check;86.45;3029.1
+CC007_New;Female;0;Yes;No;46;Yes;No;DSL;Yes;Yes;No;Yes;No;Yes;One year;No;Mailed check;70.6;3231.05
+CC008_New;Female;0;No;No;54;Yes;Yes;Fiber optic;No;Yes;No;No;Yes;Yes;Two year;Yes;Bank transfer (automatic);97.2;5129.45
+CC009_New;Female;0;Yes;No;56;Yes;Yes;Fiber optic;No;Yes;No;No;Yes;Yes;One year;Yes;Electronic check;98.25;5508.35
+CC0010_New;Female;0;Yes;No;9;Yes;No;Fiber optic;No;No;Yes;No;No;No;Month-to-month;Yes;Bank transfer (automatic);75.75;655.9
+CC0011_New;Male;0;No;No;20;Yes;Yes;DSL;Yes;No;No;Yes;No;No;Month-to-month;No;Bank transfer (automatic);59.2;1191.2
+CC0012_New;Male;0;No;No;11;Yes;No;Fiber optic;No;Yes;No;No;No;No;Month-to-month;Yes;Mailed check;75.9;866.4
+CC0013_New;Female;1;Yes;No;30;Yes;Yes;Fiber optic;No;Yes;No;No;Yes;No;Month-to-month;Yes;Electronic check;90.05;2627.2
+CC0014_New;Male;0;Yes;No;68;Yes;No;DSL;Yes;Yes;Yes;No;No;Yes;Two year;No;Bank transfer (automatic);70.95;4741.45
+CC0015_New;Male;1;Yes;No;38;Yes;Yes;Fiber optic;No;Yes;Yes;No;Yes;Yes;Month-to-month;Yes;Electronic check;102.6;4009.2
+CC0016_New;Female;1;Yes;No;17;Yes;Yes;Fiber optic;Yes;No;Yes;No;No;No;Month-to-month;Yes;Bank transfer (automatic);85.35;1463.45
+CC0017_New;Male;0;No;No;48;Yes;Yes;Fiber optic;No;Yes;Yes;No;Yes;Yes;One year;Yes;Credit card (automatic);106.1;5082.8
+CC0018_New;Female;0;No;No;1;Yes;No;DSL;No;No;No;No;No;No;Month-to-month;No;Electronic check;43.8;43.8
+CC0019_New;Male;0;Yes;Yes;63;No;No phone service;DSL;Yes;Yes;Yes;No;Yes;Yes;Two year;No;Electronic check;59;3707.6

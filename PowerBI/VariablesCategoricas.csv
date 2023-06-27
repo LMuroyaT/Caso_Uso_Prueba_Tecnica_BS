@@ -1,0 +1,62 @@
+﻿Variable;Valor;Tasa;Mix;Base
+Genero;Femenino;26.92%;49.52%;3488
+Genero;Masculino;26.16%;50.48%;3555
+EstadoCivil;0;23.61%;83.79%;5901
+EstadoCivil;1;41.68%;16.21%;1142
+AdultoMayor;No;32.96%;51.70%;3641
+AdultoMayor;Sí;19.66%;48.30%;3402
+Hijos;No;31.28%;70.04%;4933
+Hijos;Sí;15.45%;29.96%;2110
+ServicioMovil;No;24.93%;9.68%;682
+ServicioMovil;Sí;26.71%;90.32%;6361
+Multilinea;No;25.04%;48.13%;3390
+Multilinea;Sin servicio movil;24.93%;9.68%;682
+Multilinea;Sí;28.61%;42.18%;2971
+ServicioInternet;DSL;18.96%;34.37%;2421
+ServicioInternet;Fiber optica;41.89%;43.96%;3096
+ServicioInternet;No;7.40%;21.67%;1526
+SeguridadOnline;No;41.77%;49.67%;3498
+SeguridadOnline;Sin servicio internet;7.40%;21.67%;1526
+SeguridadOnline;Sí;14.61%;28.67%;2019
+BackupOnline;No;39.93%;43.84%;3088
+BackupOnline;Sin servicio internet;7.40%;21.67%;1526
+BackupOnline;Sí;21.53%;34.49%;2429
+ProteccionTerminal;No;39.13%;43.94%;3095
+ProteccionTerminal;Sin servicio internet;7.40%;21.67%;1526
+ProteccionTerminal;Sí;22.50%;34.39%;2422
+ServicioTecnico;No;41.64%;49.31%;3473
+ServicioTecnico;Sin servicio internet;7.40%;21.67%;1526
+ServicioTecnico;Sí;15.17%;29.02%;2044
+StreamingTV;No;33.52%;39.90%;2810
+StreamingTV;Sin servicio internet;7.40%;21.67%;1526
+StreamingTV;Sí;30.07%;38.44%;2707
+StreamingMovies;No;33.68%;39.54%;2785
+StreamingMovies;Sin servicio internet;7.40%;21.67%;1526
+StreamingMovies;Sí;29.94%;38.79%;2732
+Plazo;Mensual;42.71%;55.02%;3875
+Plazo;Anual;11.27%;20.91%;1473
+Plazo;Bianual;2.83%;24.07%;1695
+FacturacionElectronica;No;16.33%;40.78%;2872
+FacturacionElectronica;Sí;33.57%;59.22%;4171
+ModoPago;Transferencia bancaria;16.71%;21.92%;1544
+ModoPago;Tarjeta Crédito;15.24%;21.61%;1522
+ModoPago;Cheque electrónico;45.29%;33.58%;2365
+ModoPago;Cheque correo;19.11%;22.89%;1612
+Antigüedad;[0-3];56.21%;15.08%;1062
+Antigüedad;[4-6];44.63%;5.95%;419
+Antigüedad;[7-12];35.89%;10.01%;705
+Antigüedad;[13-18];32.30%;7.78%;548
+Antigüedad;[19-24];24.58%;6.76%;476
+Antigüedad;[25++];14.04%;54.42%;3833
+CargoMensual;[18-59];16.82%;41.28%;2907
+CargoMensual;[60-99];34.79%;45.83%;3228
+CargoMensual;[100++];28.30%;12.89%;908
+CargoTotal;[18-1018];36.72%;41.45%;2919
+CargoTotal;[1019-2018];21.33%;18.10%;1275
+CargoTotal;[2019-3018];27.31%;9.36%;659
+CargoTotal;[3019-4018];18.46%;7.92%;558
+CargoTotal;[4019-5018];17.16%;7.20%;507
+CargoTotal;[5019-6018];15.87%;6.26%;441
+CargoTotal;[6019-7018];14.64%;5.14%;362
+CargoTotal;[7019-8018];11.69%;3.52%;248
+CargoTotal;[8019++];4.05%;1.05%;74
